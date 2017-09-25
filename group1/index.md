@@ -4,8 +4,7 @@ Here are bullet points:
 - bullet1
 - bullet2
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/https://youtu.be/rZwNb11n9zk"></iframe>
-## Restituer des entretiens
+## Intégrer des contenus multimédias:
 
 ### au format audio (entretiens ou extraits choisis)
 
@@ -25,7 +24,7 @@ Lecteur de type youtube
 
 ### comme texte
 
-Les retranscriptions d'entretiens peuvent figurer en entier en pdf
+Faire figurer un  pdf:
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
